@@ -1,0 +1,20 @@
+/* PSEUDO ELEMENTOS */
+
+li::first-letter
+{
+    color: cyan;
+    background-color: blue;
+}
+
+span
+{
+    color: fuchsia;
+    font-style: italic;
+}
+
+li
+{
+    background-color: black;
+    color: #fff;
+
+}

@@ -1,0 +1,17 @@
+/* child */
+
+p:nth-child(even)
+{
+    background-color: black;
+    color: azure;
+
+}
+
+p:nth-child(odd)
+{
+    background-color: red;
+    color: white;
+}
+
+
+
